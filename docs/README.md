@@ -2,13 +2,17 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Projeto:** Falta De Presença Online de Microempresas
+* **Repositório GitHub:** https://github.com/JooaoPedro15/falta-de-presen-a-online
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Bernado Costa](https://github.com/Binhoww) 
+  * [Diogo Oliveira](https://github.com/Diogo1406) 
+  * [Eduardo Murta](https://github.com/Dumurta) 
+  * [João Pedro Costa](https://github.com/JooaoPedro15) 
+  * [Larissa Varella](https://github.com/LarissaVarella77)
+  * [Rafael Ramaldes](https://github.com/Rafael-Ramaldes)  
+  
 
 A documentação do projeto é estruturada da seguinte forma:
 
