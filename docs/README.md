@@ -28,73 +28,90 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Muitas microempresas ainda esbarram em grandes dificuldades quando o assunto é presença digital. Seja pela falta de familiaridade com marketing, por recursos financeiros limitados ou simplesmente por não saber por onde começar, o mundo online ainda parece distante para boa parte desses empreendedores.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Na prática, isso significa menos visibilidade, menos clientes e, muitas vezes, menos vendas. Mesmo com um bom serviço ou produto, e apesar da confiança da vizinhança e da clientela fiel, essas empresas acabam ficando para trás num mercado cada vez mais conectado.
+
+Além disso, falta apoio para que essas pessoas consigam dar os primeiros passos no digital. A ausência de orientação, de soluções simples e acessíveis, faz com que muitos desistam antes mesmo de tentar. O famoso “boca a boca”, que sempre funcionou bem no passado, já não dá conta de garantir a sobrevivência do negócio nos dias de hoje.
+
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Objetivo Geral:
+Desenvolver uma solução digital acessível e personalizada para auxiliar microempresas a conquistarem presença online de forma eficiente e sustentável.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
->
-> **Orientações**:
->
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Específicos:
+
+Compreender os desafios enfrentados por microempreendedores na digitalização de seus negócios.
+
+Criar personas reais a partir de entrevistas qualitativas.
+
+Mapear as dores, desejos e necessidades dessas personas com foco em soluções digitais simples e eficazes.
+
+Desenvolver uma ferramenta digital (app, sistema ou plataforma) para facilitar promoções, fidelização e comunicação com os clientes.
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Por que este tema?
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A transformação digital tem redefinido a maneira como os negócios operam e se conectam com seus clientes. No entanto, muitos microempreendedores enfrentam dificuldades para estabelecer uma presença online eficaz, seja por limitações de conhecimento técnico, recursos financeiros ou acesso a ferramentas adequadas. Essa lacuna digital limita o crescimento dessas empresas e as impede de aproveitar as oportunidades oferecidas pelo mercado digital. Portanto, é essencial desenvolver soluções que facilitem a integração dessas microempresas no ambiente digital, promovendo sua competitividade e sustentabilidade.​
+
+O que se pretende alcançar?
+
+Este projeto busca desenvolver uma solução digital acessível e intuitiva que auxilie microempresas a estabelecerem e fortalecerem sua presença online. A proposta é criar uma plataforma que ofereça recursos e orientações adaptadas às necessidades específicas desses empreendedores, permitindo-lhes superar as barreiras atuais e aproveitar as vantagens do mercado digital.​
+
+Quem é o público-alvo?
+
+O foco deste projeto são microempreendedores que possuem negócios estabelecidos, mas que ainda não conseguiram integrar suas operações ao ambiente digital de forma eficaz. Esses empreendedores, muitas vezes, enfrentam desafios relacionados à falta de conhecimento técnico, recursos financeiros limitados e ausência de suporte especializado para a digitalização de seus negócios.​
+
+Qual é a base teórica?
+
+A fundamentação deste projeto está ancorada em estudos sobre transformação digital, inclusão digital de micro e pequenas empresas e estratégias de marketing digital adaptadas a pequenos negócios. Além disso, serão consideradas pesquisas que abordam as dificuldades enfrentadas por microempreendedores na adoção de tecnologias digitais e as melhores práticas para superá-las.
+
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Nosso público-alvo são microempreendedores locais com negócios estabelecidos, mas com pouca ou nenhuma presença digital estruturada. São, em sua maioria:
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Pessoas com perfil prático e tradicional, que prezam pelo atendimento presencial, têm resistência inicial à tecnologia, mas reconhecem a importância da modernização.
+
+Pessoas com perfil comunicativo e ambicioso , que já usam redes sociais informalmente e desejam crescer, mas não sabem exatamente como usar o digital de forma estratégica.
+
+Esse público está distribuído em setores como alimentação, beleza, vestuário, artesanato e serviços em geral — todos com forte atuação local e grande potencial de expansão online.
+
 
 # Product Discovery
 
 ## Etapa de Entendimento
 
-**✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
-> * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
-> * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
-> * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
-> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
+> * **Matriz CSD**: 
+
+![matrizCSD](mapas/matrizdealinhamento.png)
+
+> * **Mapa de stakeholders**: 
+
+![stakeholders](mapas/MapaDeStakeholders2.png)
+
+> * **Entrevistas qualitativas**: 
+
+![entrevista](mapas/entrevista1.png)
+
+![entrevista](mapas/entrevista2.png)
+
+![entrevista](mapas/entrevista3.png)
+
+![entrevista](mapas/entrevista4.png)
+
+![entrevista](mapas/entrevista5.png)
+
+![entrevista](mapas/entrevista6.png)
+
+
+> * **Highlights de pesquisa**: 
+
+![highlights](mapas/highlights.png)
+
 
 ## Etapa de Definição
 
