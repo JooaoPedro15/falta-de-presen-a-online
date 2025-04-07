@@ -28,8 +28,6 @@ A documentação do projeto é estruturada da seguinte forma:
 
 # Contexto
 
-Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa e público-alvo.
-
 ## Problema
 
 Muitas microempresas ainda esbarram em grandes dificuldades quando o assunto é presença digital. Seja pela falta de familiaridade com marketing, por recursos financeiros limitados ou simplesmente por não saber por onde começar, o mundo online ainda parece distante para boa parte desses empreendedores.
